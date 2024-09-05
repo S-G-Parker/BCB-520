@@ -1,0 +1,42 @@
+---
+title: "Basque Tutorial"
+author: "Sean Parker"
+format: html
+editor: visual
+---
+
+# Aurketzu Zeure Burua Euskaraz!
+
+Introduce Yourself in Basque!
+
+![Basque Flag](Basque Flag.png)
+
+## Zure Izena (Your Name)
+
+To tell someone your name in Basque, you need to know 3 simple words:
+
+Ni (pronounced like 'knee') = I (Pronouns are not mandatory in Basque, but let's start out by using them)
+
+(Your Name) = Your name, which I hope you already know
+
+Naiz (pronounced like 'nice') = I am
+
+In Basque, verbs always come after nouns and objects, so putting it all together we get:
+
+Ni (your name) naiz
+
+## Zure Nazionalitatea (Your Nationality)
+
+You can also tell someone your nationality using the same sentence structure, substituting your nationality for your name. For example:
+
+Ni amerikanoa naiz = I am American
+
+Ni mexicanoa naiz = I am Mexican
+
+Ni Euskalduna naiz = I am Basque
+
+You can then combine the two sentences using the word 'eta', meaning 'and':
+
+Ni Sean naiz, eta amerikanoa naiz
+
+Now you know all you need to make a basic introduction in Basque. Eskerrik Asko!

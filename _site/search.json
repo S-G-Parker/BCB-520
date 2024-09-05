@@ -1,0 +1,37 @@
+[
+  {
+    "objectID": "posts/post-with-code/index.html",
+    "href": "posts/post-with-code/index.html",
+    "title": "Basque Tutorial",
+    "section": "",
+    "text": "Introduce Yourself in Basque!\n\n\n\nBasque Flag\n\n\n\n\nTo tell someone your name in Basque, you need to know 3 simple words:\nNi (pronounced like ‘knee’) = I (Pronouns are not mandatory in Basque, but let’s start out by using them)\n(Your Name) = Your name, which I hope you already know\nNaiz (pronounced like ‘nice’) = I am\nIn Basque, verbs always come after nouns and objects, so putting it all together we get:\nNi (your name) naiz\n\n\n\nYou can also tell someone your nationality using the same sentence structure, substituting your nationality for your name. For example:\nNi amerikanoa naiz = I am American\nNi mexicanoa naiz = I am Mexican\nNi Euskalduna naiz = I am Basque\nYou can then combine the two sentences using the word ‘eta’, meaning ‘and’:\nNi Sean naiz, eta amerikanoa naiz\nNow you know all you need to make a basic introduction in Basque. Eskerrik Asko!"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#zure-izena-your-name",
+    "href": "posts/post-with-code/index.html#zure-izena-your-name",
+    "title": "Basque Tutorial",
+    "section": "",
+    "text": "To tell someone your name in Basque, you need to know 3 simple words:\nNi (pronounced like ‘knee’) = I (Pronouns are not mandatory in Basque, but let’s start out by using them)\n(Your Name) = Your name, which I hope you already know\nNaiz (pronounced like ‘nice’) = I am\nIn Basque, verbs always come after nouns and objects, so putting it all together we get:\nNi (your name) naiz"
+  },
+  {
+    "objectID": "posts/post-with-code/index.html#zure-nazionalitatea-your-nationality",
+    "href": "posts/post-with-code/index.html#zure-nazionalitatea-your-nationality",
+    "title": "Basque Tutorial",
+    "section": "",
+    "text": "You can also tell someone your nationality using the same sentence structure, substituting your nationality for your name. For example:\nNi amerikanoa naiz = I am American\nNi mexicanoa naiz = I am Mexican\nNi Euskalduna naiz = I am Basque\nYou can then combine the two sentences using the word ‘eta’, meaning ‘and’:\nNi Sean naiz, eta amerikanoa naiz\nNow you know all you need to make a basic introduction in Basque. Eskerrik Asko!"
+  },
+  {
+    "objectID": "posts/welcome/index.html",
+    "href": "posts/welcome/index.html",
+    "title": "Welcome To My Blog",
+    "section": "",
+    "text": "This is the first post in a Quarto blog. Welcome!\n\nSince this post doesn’t specify an explicit image, the first image in the post will be used in the listing page of posts."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this blog"
+  }
+]
